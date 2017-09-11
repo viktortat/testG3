@@ -1,1 +1,1 @@
-# testG3 - пример!
+# This is a header.
